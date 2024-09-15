@@ -9,6 +9,7 @@ Output:
 
 int main() {
     char ch;
+    
     int num, i;
 
     printf("Enter a character: ");

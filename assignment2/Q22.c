@@ -1,4 +1,4 @@
-/* Write a program to crate four function
+t /* Write a program to crate four function
 calculator. Four functions are +, - , *, / */
  
  #include<stdio.h>

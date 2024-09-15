@@ -5,7 +5,7 @@ Output: 180 = 2 * 2 * 3 * 3 * 5 */
 #include <stdio.h>
 
 int main() {
-    int a, i;
+    int a, i;0
 
     printf("Enter a number: ");
     scanf("%d", &a);

@@ -1,4 +1,5 @@
-/* Input a number and display whether number is Even or Odd. */
+
+                 /* Input a number and display whether number is Even or Odd. */
 #include<stdio.h>
 
 int main()

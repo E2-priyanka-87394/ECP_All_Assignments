@@ -1,5 +1,5 @@
-/* Write a program to find maximum of two numbers using
-a. If – else
+ /* Write a program to find maximum of two numbers using
+a. If – else51152
 b. conditional operator. */
 
 #include <stdio.h>
